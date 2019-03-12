@@ -46,7 +46,7 @@ Related
 
 ▸ **isDerivedRecord**(object: *`any`*): `boolean`
 
-*Defined in [is-derived-record.ts:13](https://github.com/strong-roots-capital/is-derived-record/blob/9b867a3/src/is-derived-record.ts#L13)*
+*Defined in [is-derived-record.ts:13](https://github.com/strong-roots-capital/is-derived-record/blob/0372652/src/is-derived-record.ts#L13)*
 
 Type-guard for `DerivedRecord`.
 
