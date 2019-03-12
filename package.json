@@ -1,6 +1,6 @@
 {
   "name": "@strong-roots-capital/is-derived-record",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Type-guard for DerivedRecord",
   "main": "dist/is-derived-record.js",
   "types": "dist/is-derived-record.d.ts",
