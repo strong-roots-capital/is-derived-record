@@ -12,13 +12,15 @@ npm install @strong-roots-capital/is-derived-record
 
 ``` typescript
 import isDerivedRecord from '@strong-roots-capital/is-derived-record'
-// TODO: describe usage
+
+const object = fetchMysteryObject()
+if (isDerivedRecord(object)) {
+    console.log(object.Close) // ok
+} else {
+    console.log(object.Close) // potential error!
+}
 ```
 
 ## Related
 
-TODO
-
-## Acknowledgments
-
-TODO
+- [derived-record](https://github.com/strong-roots-capital/is-derived-record)
