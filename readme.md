@@ -23,4 +23,4 @@ if (isDerivedRecord(object)) {
 
 ## Related
 
-- [derived-record](https://github.com/strong-roots-capital/is-derived-record)
+- [derived-record](https://github.com/strong-roots-capital/derived-record)
